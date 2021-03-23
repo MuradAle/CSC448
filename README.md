@@ -1,3 +1,2 @@
-# CSC448
-Artificial intelligence
+# CSC448 - Artificial intelligence
 HelloWorld will print "Hello Jupyter!".
